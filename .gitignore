@@ -17,5 +17,5 @@ bin/
 .classpath
 .project
 .settings/
-Server-Stats-Backend.iml
+serverstatsbackend.iml
 .idea/
