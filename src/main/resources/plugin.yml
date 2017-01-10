@@ -1,0 +1,5 @@
+author: Marvin Seidl
+description: A REST Backend serving stats and information about the server
+main: net.marvinseidl.serverstatsbackend.ServerStatsBackend
+name: ServerStatsBackend
+version: 0.0
